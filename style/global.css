@@ -44,5 +44,10 @@
 }
 
 .box-news{
-    padding: 0px 30px
+    padding: 5px 30px
+}
+
+.news-list{
+    height: 700px;
+    overflow-y: scroll;
 }
