@@ -1,7 +1,14 @@
+body{
+    background-color: #EEEEEE;
+}
+
+ul>li.list-group-item{
+    background-color: #EEEEEE;
+}
+
 .dropdown-toggle::after {
     display:none;
 }
-
 
 .xsmall-font{
     font-size: 12px;
@@ -51,3 +58,5 @@
     height: 700px;
     overflow-y: scroll;
 }
+
+
